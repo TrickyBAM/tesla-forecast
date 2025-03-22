@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tesla-forecast/static/css/main.e651d1db.css",
+    "main.js": "/tesla-forecast/static/js/main.25921f15.js",
+    "static/js/453.a41bb739.chunk.js": "/tesla-forecast/static/js/453.a41bb739.chunk.js",
+    "index.html": "/tesla-forecast/index.html",
+    "main.e651d1db.css.map": "/tesla-forecast/static/css/main.e651d1db.css.map",
+    "main.25921f15.js.map": "/tesla-forecast/static/js/main.25921f15.js.map",
+    "453.a41bb739.chunk.js.map": "/tesla-forecast/static/js/453.a41bb739.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e651d1db.css",
+    "static/js/main.25921f15.js"
+  ]
+}
